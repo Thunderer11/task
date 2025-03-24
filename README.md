@@ -1,8 +1,8 @@
 # Project Title
-Project X
+Quantum coders
 
 ## Description
-Finding the value of X
+Code of the great coders.
 
 ## Installation Steps
 Follow these steps to set up the project:
